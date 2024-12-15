@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\BankaYonetimSistemi\BankaYonetimSistemi\bin\Debug\BankaYonetimSistemi.exe.config
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\BankaYonetimSistemi\BankaYonetimSistemi\bin\Debug\BankaYonetimSistemi.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\BankaYonetimSistemi\BankaYonetimSistemi\bin\Debug\BankaYonetimSistemi.pdb
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\BankaYonetimSistemi\BankaYonetimSistemi\obj\Debug\BankaYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\BankaYonetimSistemi\BankaYonetimSistemi\obj\Debug\BankaYonetimSistemi.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\BankaYonetimSistemi\BankaYonetimSistemi\obj\Debug\BankaYonetimSistemi.pdb

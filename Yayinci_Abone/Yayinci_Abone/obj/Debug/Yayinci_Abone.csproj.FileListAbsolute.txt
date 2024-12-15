@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Yayinci_Abone\Yayinci_Abone\bin\Debug\Yayinci_Abone.exe.config
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Yayinci_Abone\Yayinci_Abone\bin\Debug\Yayinci_Abone.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Yayinci_Abone\Yayinci_Abone\bin\Debug\Yayinci_Abone.pdb
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Yayinci_Abone\Yayinci_Abone\obj\Debug\Yayinci_Abone.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Yayinci_Abone\Yayinci_Abone\obj\Debug\Yayinci_Abone.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Yayinci_Abone\Yayinci_Abone\obj\Debug\Yayinci_Abone.pdb

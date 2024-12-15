@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Hayvanat_Bahces\Hayvanat_Bahces\bin\Debug\Hayvanat_Bahces.exe.config
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Hayvanat_Bahces\Hayvanat_Bahces\bin\Debug\Hayvanat_Bahces.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Hayvanat_Bahces\Hayvanat_Bahces\bin\Debug\Hayvanat_Bahces.pdb
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Hayvanat_Bahces\Hayvanat_Bahces\obj\Debug\Hayvanat_Bahces.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Hayvanat_Bahces\Hayvanat_Bahces\obj\Debug\Hayvanat_Bahces.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Hayvanat_Bahces\Hayvanat_Bahces\obj\Debug\Hayvanat_Bahces.pdb

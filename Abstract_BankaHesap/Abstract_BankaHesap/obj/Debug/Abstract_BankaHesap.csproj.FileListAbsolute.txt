@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Abstract_BankaHesap\Abstract_BankaHesap\bin\Debug\Abstract_BankaHesap.exe.config
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Abstract_BankaHesap\Abstract_BankaHesap\bin\Debug\Abstract_BankaHesap.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Abstract_BankaHesap\Abstract_BankaHesap\bin\Debug\Abstract_BankaHesap.pdb
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Abstract_BankaHesap\Abstract_BankaHesap\obj\Debug\Abstract_BankaHesap.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Abstract_BankaHesap\Abstract_BankaHesap\obj\Debug\Abstract_BankaHesap.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\Abstract_BankaHesap\Abstract_BankaHesap\obj\Debug\Abstract_BankaHesap.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagazaYonetim", "MagazaYonetim\MagazaYonetim.csproj", "{A8652A2A-13A4-4202-9AC6-B1BAA8D6A85B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8652A2A-13A4-4202-9AC6-B1BAA8D6A85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8652A2A-13A4-4202-9AC6-B1BAA8D6A85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8652A2A-13A4-4202-9AC6-B1BAA8D6A85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8652A2A-13A4-4202-9AC6-B1BAA8D6A85B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84EDC18E-178B-4AA4-9F48-389EE7DE50A4}
+	EndGlobalSection
+EndGlobal

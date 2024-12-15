@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\MagazaYonetim\MagazaYonetim\bin\Debug\MagazaYonetim.exe.config
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\MagazaYonetim\MagazaYonetim\bin\Debug\MagazaYonetim.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\MagazaYonetim\MagazaYonetim\bin\Debug\MagazaYonetim.pdb
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\MagazaYonetim\MagazaYonetim\obj\Debug\MagazaYonetim.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\MagazaYonetim\MagazaYonetim\obj\Debug\MagazaYonetim.exe
+C:\Users\Beşir Can\source\repos\Hafta7_Kalitim\MagazaYonetim\MagazaYonetim\obj\Debug\MagazaYonetim.pdb
